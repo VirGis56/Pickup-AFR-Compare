@@ -5,6 +5,10 @@ A unique string-driven method using Audacity and Python for analyzing and compar
 * Audacity
 * Python 3.x
 
+**Key Advantage:** No additional hardware required! You don't need any specialized equipment, excitation coils, or DIY signal generators. All you need is your guitar, a PC, and the software.
+
+**Versatility:** This method is equally valuable for large guitar companies for quality control, and for independent pickup winders or enthusiasts who want to compare sensors without investing in expensive laboratory equipment.
+
 ## Why this method?
  This method is **String-Driven**. It captures the signal directly from physical vibrating strings, revealing how the pickup truly interacts with a guitar in real-world conditions, including magnetic pull and physical string mass.
 ---
