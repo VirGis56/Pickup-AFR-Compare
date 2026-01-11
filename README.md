@@ -49,3 +49,5 @@ The script will automatically detect the files and generate a chart with a **Gre
 ---
 *Pro Tip: Try rubbing all strings simultaneously for a full-spectrum analysis. Dare to experiment! ( I personally make separate recordings for the 6th and 1st strings to analyze the full range).*
 *Created for engineers and enthusiasts who value data over myths.*
+---
+**Author:** [nE_Er](https://github.com/VirGis56)
