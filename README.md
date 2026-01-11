@@ -1,9 +1,12 @@
 # Pickup-AFR-Compare
 
-A unique **string-driven** method and Python tool for analyzing and comparing guitar pickup frequency response (AFR).
+A unique string-driven method using Audacity and Python for analyzing and comparing guitar pickup frequency response (AFR).
+**Tools required:**
+* Audacity
+* Python 3.x
 
 ## Why this method?
-Traditional laboratory setups (like excitation coils) show only electrical properties. This method is **String-Driven**. It captures the signal directly from physical vibrating strings, revealing how the pickup truly interacts with a guitar in real-world conditions, including magnetic pull and physical string mass.
+ This method is **String-Driven**. It captures the signal directly from physical vibrating strings, revealing how the pickup truly interacts with a guitar in real-world conditions, including magnetic pull and physical string mass.
 ---
 ## Step-by-Step Workflow
 
