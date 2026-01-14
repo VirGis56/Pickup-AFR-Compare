@@ -60,3 +60,6 @@ The script will automatically detect the files and generate a chart with a **Gre
 *Created for engineers and enthusiasts who value data over myths.*
 ---
 **Author:** [nE_Er](https://github.com/VirGis56)
+---
+**Project Updates:**
+* **2026.01.14:** New experimental method added: "Sandwich" mounting and synchronous stereo recording.
