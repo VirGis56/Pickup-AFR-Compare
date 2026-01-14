@@ -46,6 +46,15 @@ The script will automatically detect the files and generate a chart with a **Gre
 * **Above the Red Line (0dB):** Your pickup is stronger/brighter than the reference.
 * **Below the Red Line:** Your pickup has less output.
 
+> [!TIP]
+> ### **The "Sandwich" Mounting Method**
+> Instead of replacing the internal pickup (which requires disassembly), you can lower it and place your test sensor directly above the strings using a custom support.
+> 
+> **Key Advantages:**
+> * **Zero Disassembly:** Perfect for capturing the character of a reference guitar (e.g., at a friend’s house) without modifying the instrument.
+> * **Simultaneous Stereo Capture:** This setup allows for recording both sensors at once (Left: Internal / Right: External). It ensures both pickups react to the exact same string vibration, providing a perfect A/B comparison.
+> 
+> **Important:** Keep a sufficient distance between the sensors to minimize mutual magnetic interference and string pull. Users should account for different signal levels and harmonic responses due to the "sandwich" placement.
 ---
 *Pro Tip: Try rubbing all strings simultaneously for a full-spectrum analysis. Dare to experiment! ( I personally make separate recordings for the 6th and 1st strings to analyze the full range).*
 *Created for engineers and enthusiasts who value data over myths.*
