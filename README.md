@@ -63,3 +63,14 @@ The script will automatically detect the files and generate a chart with a **Gre
 ---
 **Project Updates:**
 * **2026.01.14:** New experimental method added: "Sandwich" mounting and synchronous stereo recording.
+
+* **2026.01.15:**
+### **Advanced Acoustic Analysis**
+The analysis script now automatically detects and displays key technical parameters for each pickup:
+
+* **Resonance Peak Identification:** The script finds the exact peak frequency (Hz) and marks it on the graph.
+* **-3dB Bandwidth Lines:** Visual lines are drawn at the -3dB level to show the resonance width.
+* **Q-Factor Calculation:** The quality factor is calculated and displayed, allowing you to evaluate the "sharpness" or "warmth" of the sensor.
+
+> [!IMPORTANT]
+> **Note on Sharp Peaks:** If a resonance peak is extremely sharp (due to pickup properties or specific FFT settings in Audacity), the horizontal -3dB line might not render on the graph. In such cases, the script will still provide the numerical data for peak frequency and Q-factor.
