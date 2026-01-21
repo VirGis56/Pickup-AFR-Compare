@@ -1,6 +1,14 @@
 # Pickup-AFR-Compare
 ![Views](https://komarev.com/ghpvc/?username=VirGis56&repo=Pickup-AFR-Compare&label=Project%20Views&color=blue&style=flat)
 A unique string-driven method using Audacity and Python for analyzing and comparing guitar pickup frequency response (AFR).
+
+### My Philosophy
+I am not here to tell you **that** your ears are wrong. I believe **that** human hearing is a great tool for music, but it can be easily fooled by volume or expectations. My goal is to provide a "digital microscope" for those who want to see the data. 
+
+**Note:** My findings are often just "hints" or observations. They could be breakthroughs or just experimental flaws — decide for yourself!
+
+* 🔍 **[Read my observations and latest findings here]**(https://github.com/VirGis56/Pickup-AFR-Compare/discussions/1)
+
 **Tools required:**
 * Audacity
 * Python 3.x
